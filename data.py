@@ -1,1 +1,0 @@
-# this file scraps data from the BlueAlliance site using beautiful soup 
