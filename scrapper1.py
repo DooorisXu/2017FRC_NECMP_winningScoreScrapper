@@ -1,5 +1,5 @@
 #this code gets the winning score of the each match in the FRC 2017NECMP
-#this is a possible scrapper
+
 #in the terminal
 install requests
 install bs4
